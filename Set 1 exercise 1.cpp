@@ -4,12 +4,14 @@ using namespace std;
 //Enter number
 int main (){
 	int number;
+	int remainder;
 	int sum=0;
+	bool repeat = false;
 	cout<<"Enter an integer number:";
 	cin>>number;
 	
 	//Calculate the sum
-	int nextNumber=number;
+	/*int nextNumber=number;
 	while (number!=0)
 	{
 		sum+=number%10;
@@ -28,9 +30,26 @@ int main (){
 	}
 		
 	}
-	cout<<"="<<sum<<endl;
+	cout<<"="<<sum<<endl; */
 	
-	//Check is multiple of 3,4 and 5
+	do {
+		if (number>=10){
+			repeat = true;
+			remainder=number%10;
+			sum+=number%10;
+			cout<<remainder<<" + ";
+			number/=10;
+		}
+		else{
+			repeat = false;
+			remainder=number%10;
+			sum+=number%10;
+			cout<<remainder<<" = "<<sum<<endl;
+			number/=10;
+		}
+	} while (repeat);
+	
+	//Check multiple of 3,4 and 5
 	bool multiple3=(sum%3==0);
 	bool multiple4=(sum%4==0);
 	bool multiple5=(sum%5==0);
