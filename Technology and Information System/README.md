@@ -41,5 +41,15 @@ Both of the industry visits highlighted the **importance of lifelong learning**.
 
 ![PC assemble (2)](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/6d590da8-5094-4e79-b643-75e55b64b0fd)
 
+You may watch our video [here](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/PC%20assemble%20(lab).mp4)
+
+`REFLECTION `
+After PC Assemble, It **deepens my knowledge about the roles of the CPU, GPU, RAM, motherboard, storage, and power supply**. Reading manuals, watching tutorials, and troubleshooting during the assembly process contribute to a valuable learning experience. 
+
+### 5. Design Thinking ( [Report](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Group%206%20TIS%20Design%20Thinking%20Assignment%20(1).pdf) & [Presentation](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Design%20Thinking%20Presentation_20240103_135607_0000.pdf) )
+
+`REFLECTION `
+According to my understanding, design thinking is an iterative process in which we try to **find and solve problems in different ways**. In my opinion, this project introduced me to the **importance of identifying a problem and coming up with many creative and innovative solutions**. I'll surely apply what I learn about design thinking to problem-solving in my everyday life. 
+
 
 
