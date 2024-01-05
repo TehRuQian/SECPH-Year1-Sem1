@@ -13,3 +13,6 @@ This course serves as an introductory introduction to information systems and te
 |13.12.2023 | Industry visit to UTM Digital|
 |28.12.2023 | Virtual industry talk about System Development |
 
+## Assignment 
+1. 
+
