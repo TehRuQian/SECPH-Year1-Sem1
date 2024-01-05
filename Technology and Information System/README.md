@@ -17,8 +17,8 @@ This course serves as an introductory introduction to information systems and te
 ## Industry Talk and Industry Visit : 
 ### 1. Assignment 1 [Poster](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/TEH%20RU%20QIAN%20Career%20Development.pdf) 
 `REFLECTION `
-I was greatly influenced by this discussion regarding the important
-job application. I realize that before starting my internship program, I
+I was greatly influenced by this discussion regarding the **important
+job application**. I realize that before starting my internship program, I
 should start drafting my job application and making it the best. Apart from that, I'll make an effort to take part in more computer science related
 events like the upcoming Compfair in order to learn new skills
 that will be useful to me in the future.
@@ -37,8 +37,9 @@ After visit UTM Digital Center, I learnt more about **a concept of the actual wo
 Both of the industry visits highlighted the **importance of lifelong learning**. Especially as a student of computer science, we cannot stop learning new things if we do not want to fall behind because technology is advancing daily. For instance, becoming a successful data engineer requires having a number of abilities, including analytical thinking, problem-solving, programming, productivity, and an awareness of the SDLC.
 
 ### 5. PC Assemble (Lab)
+![PC assemble (1)](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/a338396e-5a2b-4e5b-bd52-6c5d1b8a575a)
 
-
+![PC assemble (2)](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/6d590da8-5094-4e79-b643-75e55b64b0fd)
 
 
 
