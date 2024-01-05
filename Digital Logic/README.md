@@ -7,7 +7,7 @@ All microprocessor-based systems, including those in computers, robotics, cars, 
 ![photo1704460095](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/814f80b1-ac85-4a56-b518-8e7c4fa959c6)
 ![photo1704460095 (1)](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/b26f4ff0-5cc5-4f50-8224-f33c292ffc57)
 ![photo1704460095 (2)](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/c8071d7a-74af-41c3-bb7c-15e5509d5270)
-### 2. Lab 2 
+### 2. Lab 2 ( [Part A](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Digital%20Logic/lab2%20part%20A.pdf) & [Part B](
 ![TimingDiagram_lab 2 part a_ResultLab2PartA](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/5102629a-4a86-4ccc-ae19-0fa392892d1f)
 
 
