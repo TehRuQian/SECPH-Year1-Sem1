@@ -46,7 +46,7 @@ You may watch our video [here](https://github.com/TehRuQian/SECPH-Year1-Sem1/blo
 `REFLECTION `
 After PC Assemble, It **deepens my knowledge about the roles of the CPU, GPU, RAM, motherboard, storage, and power supply**. Reading manuals, watching tutorials, and troubleshooting during the assembly process contribute to a valuable learning experience. 
 
-### 5. Design Thinking ( [Report](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Group%206%20TIS%20Design%20Thinking%20Assignment%20(1).pdf) & [Presentation](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Design%20Thinking%20Presentation_20240103_135607_0000.pdf) )
+### 6. Design Thinking ( [Report](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Group%206%20TIS%20Design%20Thinking%20Assignment%20(1).pdf) & [Presentation](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Design%20Thinking%20Presentation_20240103_135607_0000.pdf) )
 
 `REFLECTION `
 According to my understanding, design thinking is an iterative process in which we try to **find and solve problems in different ways**. In my opinion, this project introduced me to the **importance of identifying a problem and coming up with many creative and innovative solutions**. I'll surely apply what I learn about design thinking to problem-solving in my everyday life. 
