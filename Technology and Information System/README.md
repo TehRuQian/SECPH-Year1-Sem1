@@ -29,7 +29,9 @@ that will be useful to me in the future.
 After visit UTM Digital Center, I learnt more about **a concept of the actual working environment in the organization** might be gained during an industrial visit. For instance, UTM Digital shows us around their open office, which has a workspace, a meeting room, and other areas for relaxation. Beside that, this industry visits also **fill the knowledge gap between classroom instruction and practical knowledge in an actual workplace**. When I visit the UTM data center, I are putting our theoretical knowledge into practice. In conclusion, this talk and visit to **UTM Digital provided a better understanding of their main work and working environment, deepening our knowledge of computer-related topics**.
 
 
-### 3. Assignment 3 Report(Industry talk 2)
+### 3. Assignment 3 [Report](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Industry%20Talk%202(Group%206).pdf)
+`REFLECTION `
+In the next four years, I want to **discover more about new development processes, programming languages, and technologies**. Not only in school, but also **participate in online forums and webinars about system development**. Therefore, I'll become a well-rounded developer one day.
 
 
 ### 4. Assignment 4 [NewsLetter](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/TIS%20Industrial%20Visit%20Newsletter%20(1).pdf)
