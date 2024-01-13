@@ -12,10 +12,11 @@ The result shows as below
 ![TimingDiagram_lab 2 part a_ResultLab2PartA](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/5102629a-4a86-4ccc-ae19-0fa392892d1f)
 
 
-### 3. Lab 3 [Result](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Digital%20Logic/lab%203.pdf)
-
+### 3. Lab 3 ( [Result](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Digital%20Logic/lab%203.pdf) )
+![photo1705150306](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/25ba6c2c-a6c2-4906-a48b-334665de6a95)
 
 ### 4. Project 
+
 
 ## Reflection
   
