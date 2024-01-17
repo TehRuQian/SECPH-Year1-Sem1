@@ -24,7 +24,8 @@ events like the upcoming Compfair in order to learn new skills
 that will be useful to me in the future.
 
 
-### 2. Assignment 2 [Video](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Industrial%20Talk%20and%20Visit%20(UTM%20Digital)%20(1).mp4)
+### 2. Assignment 2 [Video](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Technology%20and%20Information%20System/Industrial%20Talk%20and%20Visit%20(UTM%20Digital)%20(1).mp4) also via [Youtube](https://www.youtube.com/watch?v=3LwY1RRxxFM)
+
 `REFLECTION `
 After visit UTM Digital Center, I learnt more about **a concept of the actual working environment in the organization** might be gained during an industrial visit. For instance, UTM Digital shows us around their open office, which has a workspace, a meeting room, and other areas for relaxation. Beside that, this industry visits also **fill the knowledge gap between classroom instruction and practical knowledge in an actual workplace**. When I visit the UTM data center, I are putting our theoretical knowledge into practice. In conclusion, this talk and visit to **UTM Digital provided a better understanding of their main work and working environment, deepening our knowledge of computer-related topics**.
 
