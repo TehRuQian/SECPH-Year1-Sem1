@@ -1,4 +1,4 @@
-Here is all my project in Sem 1 Year 1 (SECPH).
+Here is all my project in Year 1 Sem 1 (SECPH).
 ### Subject
 * [TECHNOLOGY AND INFORMATION SYSTEM](https://github.com/TehRuQian/SECPH-Year1-Sem1/tree/main/Technology%20and%20Information%20System)
 * [PROGRAMMING TECHNIQUE I](https://github.com/TehRuQian/SECPH-Year1-Sem1/tree/main/Programming%20Technique%201)
