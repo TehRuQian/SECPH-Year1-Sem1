@@ -15,7 +15,7 @@ The result shows as below
 ### 3. Lab 3 ( [Result](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Digital%20Logic/lab%203.pdf) )
 ![photo1705150306](https://github.com/TehRuQian/SECPH-Year1-Sem1/assets/147678331/25ba6c2c-a6c2-4906-a48b-334665de6a95)
 
-### 4. Project 
+### 4. Project ( [Elevator Controller System](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Digital%20Logic/Digital%20logic%20project.pdf) )
 
 
 ## Reflection
