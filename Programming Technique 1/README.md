@@ -9,7 +9,7 @@ This course, which covers a foundational subject, gives students theory and prac
 
 ### 4. Exercise 2 [Function](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Programming%20Technique%201/Lab%20exercise%205.cpp)
 ### 5. Exercise 3 [Input & Output](https://github.com/TehRuQian/SECPH-Year1-Sem1/blob/main/Programming%20Technique%201/Lab%20exercise%20InputOutput.cpp)
-### 6. Case Study ( Case 2 & Case 3 ) 
+### 6. Case Study [Case 2 & Case 3](https://github.com/TehRuQian/pt1-case-study)
 
 ## Reflection
   Programming Technique 1 enhanced my coding proficiency, teaching me structured problem-solving and efficient algorithmic approaches. The course provided a solid foundation, empowering me to write more organized and effective code.
